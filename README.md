@@ -1,2 +1,6 @@
 # MetroOS
-Simulación de memoria virtual con paginación. Proyecto 2 materia Sistemas Operativos
+Proyecto 2 materia Sistemas Operativos: simulación de memoria virtual con paginación.
+
+Autores:
+Guillermo Grande
+Vincent Pérez
